@@ -1,0 +1,23 @@
+{
+  "name": "proyecto-profesional-javascript",
+  "version": "1.0.0",
+  "description": "Proyecto donde aplicamos los conocimientos adquiridos en el curso profesional de JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gomezjhon1022/proyecto-profesional-JavaScript.git"
+  },
+  "keywords": [],
+  "author": "Jhon Gomez <jhonjairogomez92@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gomezjhon1022/proyecto-profesional-JavaScript/issues"
+  },
+  "homepage": "https://github.com/gomezjhon1022/proyecto-profesional-JavaScript#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
