@@ -8,3 +8,4 @@ AutoPlay.prototype.run = function(player) {
 };
 
 export default AutoPlay;
+
