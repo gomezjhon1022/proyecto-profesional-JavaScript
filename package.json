@@ -4,7 +4,7 @@
   "description": "Proyecto donde aplicamos los conocimientos adquiridos en el curso profesional de JavaScript",
   "main": "index.js",
   "scripts": {
-    "start": "live-server"
+    "start": "parcel src/index.html ejercicios/**/*.html"
   },
   "repository": {
     "type": "git",
@@ -17,7 +17,10 @@
     "url": "https://github.com/gomezjhon1022/proyecto-profesional-JavaScript/issues"
   },
   "homepage": "https://github.com/gomezjhon1022/proyecto-profesional-JavaScript#readme",
+  "browserslist": [
+    "last 1 chrome version"
+  ],
   "devDependencies": {
-    "live-server": "^1.2.2"
+    "parcel": "^2.6.2"
   }
 }
