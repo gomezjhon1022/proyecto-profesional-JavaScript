@@ -68,3 +68,32 @@ function fullName(firstName: string, lastName?: string): string {
 }
 
 const ana = fullName('Ana', 'Rios');
+
+// Interfaces
+enum Color1 {
+    Blanco = "Blanco",
+    Lila= "Lila"
+}
+interface Rectangulo {
+    ancho: number
+    alto: number;
+    color1?: Color1;
+}
+
+let rect: Rectangulo = {
+    ancho: 4,
+    alto: 6,
+    color1: Color1.Blanco,
+};
+
+function area(r: Rectangulo): number {
+    return r.alto * r.ancho;
+}
+
+const areaRect = area(rect);
+console.log(areaRect);
+
+rect.toString = function() {
+    return `Un rectangulo ${this.color1}`;
+};
+console.log(rect.toString());
