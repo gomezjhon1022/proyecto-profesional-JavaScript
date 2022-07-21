@@ -46,3 +46,25 @@ comodin = { type: 'Wildcard'};
 
 // Object
 let someObject: object = { type: 'Wildcard'};
+
+// Funciones
+function add1 (a: number, b: number): number {
+    return a + b;
+}
+
+const sum1 = add1(4, 6);
+
+function createAdder (a: number): (number) => number {
+    return function (b: number) {
+        return b + a;
+    }
+}
+
+const addFour = createAdder(4);
+const fourPlus6 = addFour(6);
+
+function fullName(firstName: string, lastName?: string): string {
+    return `${firstName} ${lastName}`;
+}
+
+const ana = fullName('Ana', 'Rios');
