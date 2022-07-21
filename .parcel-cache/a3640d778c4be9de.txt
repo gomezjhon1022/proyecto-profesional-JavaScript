@@ -3,11 +3,11 @@
 63/home/jhon/poo/proyecto-profesional-JavaScript/assets/style.css1658095250433503567 0
 61/home/jhon/poo/proyecto-profesional-JavaScript/assets/plugins1658268381504945725 1
 62/home/jhon/poo/proyecto-profesional-JavaScript/assets/index.js1658356159634632797 0
-57/home/jhon/poo/proyecto-profesional-JavaScript/dist/sw.js1658357087714628056 0
-95/home/jhon/poo/proyecto-profesional-JavaScript/dist/ejercicios/typescript/index.b558471a.js.map1658357347634626728 0
-91/home/jhon/poo/proyecto-profesional-JavaScript/dist/ejercicios/typescript/index.b558471a.js1658357347624626728 0
-73/home/jhon/poo/proyecto-profesional-JavaScript/dist/src/index.f2427ece.js1658357087704628056 0
-77/home/jhon/poo/proyecto-profesional-JavaScript/ejercicios/typescript/index.ts1658357347384626729 0
+57/home/jhon/poo/proyecto-profesional-JavaScript/dist/sw.js1658360389214611188 0
+95/home/jhon/poo/proyecto-profesional-JavaScript/dist/ejercicios/typescript/index.b558471a.js.map1658369538654330599 0
+91/home/jhon/poo/proyecto-profesional-JavaScript/dist/ejercicios/typescript/index.b558471a.js1658369538654330599 0
+73/home/jhon/poo/proyecto-profesional-JavaScript/dist/src/index.f2427ece.js1658360389354611187 0
+77/home/jhon/poo/proyecto-profesional-JavaScript/ejercicios/typescript/index.ts1658369538424330600 0
 81/home/jhon/poo/proyecto-profesional-JavaScript/node_modules/resolve-from/index.js1658355502234636156 0
 80/home/jhon/poo/proyecto-profesional-JavaScript/node_modules/resolve-from/license1658355502464636155 0
 72/home/jhon/poo/proyecto-profesional-JavaScript/node_modules/resolve-from1658355502464636155 1
@@ -111,7 +111,7 @@
 91/home/jhon/poo/proyecto-profesional-JavaScript/node_modules/caniuse-lite/data/regions/TG.js1658355511674636108 0
 91/home/jhon/poo/proyecto-profesional-JavaScript/node_modules/caniuse-lite/data/regions/CU.js1658355509394636119 0
 91/home/jhon/poo/proyecto-profesional-JavaScript/node_modules/caniuse-lite/data/regions/TJ.js1658355511674636108 0
-73/home/jhon/poo/proyecto-profesional-JavaScript/dist/ejercicios/typescript1658357347634626728 1
+73/home/jhon/poo/proyecto-profesional-JavaScript/dist/ejercicios/typescript1658369538654330599 1
 64/home/jhon/poo/proyecto-profesional-JavaScript/package-lock.json1658355517954636076 0
 91/home/jhon/poo/proyecto-profesional-JavaScript/node_modules/caniuse-lite/data/regions/SY.js1658355511644636108 0
 91/home/jhon/poo/proyecto-profesional-JavaScript/node_modules/caniuse-lite/data/regions/SI.js1658355511554636108 0
@@ -426,7 +426,7 @@
 93/home/jhon/poo/proyecto-profesional-JavaScript/node_modules/caniuse-lite/data/features/es5.js1658355509984636116 0
 102/home/jhon/poo/proyecto-profesional-JavaScript/node_modules/caniuse-lite/data/features/setimmediate.js1658355511534636109 0
 108/home/jhon/poo/proyecto-profesional-JavaScript/node_modules/caniuse-lite/data/features/speech-recognition.js1658355511594636108 0
-57/home/jhon/poo/proyecto-profesional-JavaScript/.gitignore1658093177973514155 0
+57/home/jhon/poo/proyecto-profesional-JavaScript/.gitignore1658359010304618233 0
 93/home/jhon/poo/proyecto-profesional-JavaScript/node_modules/caniuse-lite/data/features/let.js1658355510814636112 0
 105/home/jhon/poo/proyecto-profesional-JavaScript/node_modules/caniuse-lite/data/features/document-policy.js1658355509804636117 0
 112/home/jhon/poo/proyecto-profesional-JavaScript/node_modules/caniuse-lite/data/features/css-print-color-adjust.js1658355508964636122 0
@@ -540,7 +540,7 @@
 82/home/jhon/poo/proyecto-profesional-JavaScript/node_modules/yaml/dist/parse-cst.js1658355504984636142 0
 87/home/jhon/poo/proyecto-profesional-JavaScript/node_modules/yaml/dist/legacy-exports.js1658355503724636148 0
 90/home/jhon/poo/proyecto-profesional-JavaScript/node_modules/yaml/dist/Document-9b4560a1.js1658355502434636155 0
-77/home/jhon/poo/proyecto-profesional-JavaScript/dist/src/index.f2427ece.js.map1658357087734628056 0
+77/home/jhon/poo/proyecto-profesional-JavaScript/dist/src/index.f2427ece.js.map1658360389374611187 0
 92/home/jhon/poo/proyecto-profesional-JavaScript/node_modules/yaml/dist/resolveSeq-d03cb037.js1658355505954636137 0
 69/home/jhon/poo/proyecto-profesional-JavaScript/node_modules/yaml/dist1658355506564636134 1
 73/home/jhon/poo/proyecto-profesional-JavaScript/node_modules/yaml/index.js1658355503584636149 0
@@ -677,7 +677,7 @@
 96/home/jhon/poo/proyecto-profesional-JavaScript/node_modules/dom-serializer/lib/foreignNames.d.ts1658355503664636149 0
 104/home/jhon/poo/proyecto-profesional-JavaScript/node_modules/dom-serializer/lib/esm/foreignNames.d.ts.map1658355502954636152 0
 91/home/jhon/poo/proyecto-profesional-JavaScript/node_modules/dom-serializer/lib/esm/index.js1658355502314636156 0
-68/home/jhon/poo/proyecto-profesional-JavaScript/ejercicios/typescript1658356710404629983 1
+68/home/jhon/poo/proyecto-profesional-JavaScript/ejercicios/typescript1658359473794615865 1
 106/home/jhon/poo/proyecto-profesional-JavaScript/node_modules/caniuse-lite/data/features/intl-pluralrules.js1658355510664636113 0
 98/home/jhon/poo/proyecto-profesional-JavaScript/node_modules/dom-serializer/lib/esm/foreignNames.js1658355501844636158 0
 100/home/jhon/poo/proyecto-profesional-JavaScript/node_modules/dom-serializer/lib/esm/foreignNames.d.ts1658355503574636149 0
@@ -931,7 +931,7 @@
 72/home/jhon/poo/proyecto-profesional-JavaScript/node_modules/svgo/plugins1658355507054636131 1
 85/home/jhon/poo/proyecto-profesional-JavaScript/node_modules/svgo/dist/svgo.browser.js1658355507654636128 0
 69/home/jhon/poo/proyecto-profesional-JavaScript/node_modules/svgo/dist1658355507124636131 1
-66/home/jhon/poo/proyecto-profesional-JavaScript/dist/src/index.html1658357087704628056 0
+66/home/jhon/poo/proyecto-profesional-JavaScript/dist/src/index.html1658360389554611186 0
 77/home/jhon/poo/proyecto-profesional-JavaScript/node_modules/svgo/package.json1658355507824636127 0
 64/home/jhon/poo/proyecto-profesional-JavaScript/node_modules/svgo1658355507824636127 1
 79/home/jhon/poo/proyecto-profesional-JavaScript/node_modules/weak-lru-cache/dist1658355501564636159 1
@@ -1556,7 +1556,7 @@
 76/home/jhon/poo/proyecto-profesional-JavaScript/node_modules/terser/lib/utils1658355507114636131 1
 85/home/jhon/poo/proyecto-profesional-JavaScript/node_modules/csso/lib/clean/Comment.js1658355504554636144 0
 84/home/jhon/poo/proyecto-profesional-JavaScript/node_modules/csso/lib/clean/Atrule.js1658355503354636150 0
-84/home/jhon/poo/proyecto-profesional-JavaScript/dist/ejercicios/typescript/index.html1658357087714628056 0
+84/home/jhon/poo/proyecto-profesional-JavaScript/dist/ejercicios/typescript/index.html1658360389554611186 0
 96/home/jhon/poo/proyecto-profesional-JavaScript/node_modules/caniuse-lite/data/features/dnssec.js1658355509724636118 0
 82/home/jhon/poo/proyecto-profesional-JavaScript/node_modules/@parcel/fs/src/find.js1658355505794636138 0
 81/home/jhon/poo/proyecto-profesional-JavaScript/node_modules/is-json/test/index.js1658355502334636156 0
@@ -2462,7 +2462,7 @@
 87/home/jhon/poo/proyecto-profesional-JavaScript/node_modules/@lezer/common/dist/mix.d.ts1658355504274636146 0
 109/home/jhon/poo/proyecto-profesional-JavaScript/node_modules/caniuse-lite/data/features/public-class-fields.js1658355511304636110 0
 104/home/jhon/poo/proyecto-profesional-JavaScript/node_modules/@swc/helpers/lib/_class_private_field_get.js1658355504554636144 0
-74/home/jhon/poo/proyecto-profesional-JavaScript/dist/src/index.558629d4.css1658357087694628056 0
+74/home/jhon/poo/proyecto-profesional-JavaScript/dist/src/index.558629d4.css1658360389124611188 0
 100/home/jhon/poo/proyecto-profesional-JavaScript/node_modules/css-tree/lib/syntax/pseudo/common/nth.js1658355508274636125 0
 110/home/jhon/poo/proyecto-profesional-JavaScript/node_modules/@babel/highlight/node_modules/color-name/README.md1658355501824636158 0
 69/home/jhon/poo/proyecto-profesional-JavaScript/node_modules/commander1658355503064636152 1
@@ -2767,7 +2767,7 @@
 81/home/jhon/poo/proyecto-profesional-JavaScript/node_modules/is-arrayish/README.md1658355501754636158 0
 85/home/jhon/poo/proyecto-profesional-JavaScript/node_modules/csso/lib/replace/color.js1658355504434636145 0
 88/home/jhon/poo/proyecto-profesional-JavaScript/node_modules/@parcel/watcher/package.json1658355506304636135 0
-61/home/jhon/poo/proyecto-profesional-JavaScript/dist/sw.js.map1658357087734628056 0
+61/home/jhon/poo/proyecto-profesional-JavaScript/dist/sw.js.map1658360389224611188 0
 90/home/jhon/poo/proyecto-profesional-JavaScript/node_modules/css-what/lib/es/index.d.ts.map1658355503714636148 0
 96/home/jhon/poo/proyecto-profesional-JavaScript/node_modules/v8-compile-cache/v8-compile-cache.js1658355501654636159 0
 92/home/jhon/poo/proyecto-profesional-JavaScript/node_modules/postcss-value-parser/lib/unit.js1658355502214636156 0
@@ -2875,7 +2875,7 @@
 82/home/jhon/poo/proyecto-profesional-JavaScript/node_modules/dom-serializer/LICENSE1658355501524636160 0
 108/home/jhon/poo/proyecto-profesional-JavaScript/node_modules/@parcel/core/src/requests/WriteBundlesRequest.js1658355510024636116 0
 76/home/jhon/poo/proyecto-profesional-JavaScript/node_modules/@babel/highlight1658355501844636158 1
-55/home/jhon/poo/proyecto-profesional-JavaScript/dist/src1658357087734628056 1
+55/home/jhon/poo/proyecto-profesional-JavaScript/dist/src1658360389554611186 1
 134/home/jhon/poo/proyecto-profesional-JavaScript/node_modules/@parcel/core/test/fixtures/config-extends-not-found/.parcelrc-node-modules1658355506554636134 0
 78/home/jhon/poo/proyecto-profesional-JavaScript/node_modules/css-tree/lib/lexer1658355508714636123 1
 89/home/jhon/poo/proyecto-profesional-JavaScript/node_modules/@babel/highlight/node_modules1658355499704636169 1
@@ -3241,7 +3241,7 @@
 106/home/jhon/poo/proyecto-profesional-JavaScript/node_modules/@parcel/transformer-js/src/esmodule-helpers.js1658355504284636146 0
 99/home/jhon/poo/proyecto-profesional-JavaScript/node_modules/@parcel/packager-raw/src/RawPackager.js1658355505004636142 0
 95/home/jhon/poo/proyecto-profesional-JavaScript/node_modules/@parcel/transformer-js/package.json1658355504994636142 0
-78/home/jhon/poo/proyecto-profesional-JavaScript/dist/src/index.558629d4.css.map1658357087734628056 0
+78/home/jhon/poo/proyecto-profesional-JavaScript/dist/src/index.558629d4.css.map1658360389154611188 0
 68/home/jhon/poo/proyecto-profesional-JavaScript/node_modules/msgpackr1658355506274636135 1
 86/home/jhon/poo/proyecto-profesional-JavaScript/node_modules/@parcel/transformer-js/lib1658355504664636144 1
 103/home/jhon/poo/proyecto-profesional-JavaScript/node_modules/@parcel/transformer-js/lib/JSTransformer.js1658355504524636144 0
@@ -3336,7 +3336,7 @@
 95/home/jhon/poo/proyecto-profesional-JavaScript/node_modules/svgo/lib/svgo/css-select-adapter.js1658355505524636139 0
 168/home/jhon/poo/proyecto-profesional-JavaScript/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/side-effects-package-redirect-down/foo/bar/package.json1658355509584636118 0
 171/home/jhon/poo/proyecto-profesional-JavaScript/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/side-effects-package-redirect-down/foo/bar/baz/real-bar.js1658355508684636123 0
-51/home/jhon/poo/proyecto-profesional-JavaScript/dist1658357087734628056 1
+51/home/jhon/poo/proyecto-profesional-JavaScript/dist1658360389224611188 1
 88/home/jhon/poo/proyecto-profesional-JavaScript/node_modules/@swc/helpers/lib/_type_of.js1658355506854636132 0
 68/home/jhon/poo/proyecto-profesional-JavaScript/node_modules/css-what1658355504354636145 1
 86/home/jhon/poo/proyecto-profesional-JavaScript/node_modules/css-what/lib/es/types.d.ts1658355504934636142 0
