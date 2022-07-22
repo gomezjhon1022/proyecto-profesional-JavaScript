@@ -105,5 +105,5 @@ dist
 
 # TypeScript
 
-.parcel-cache/
+.parcel-cache
 dist

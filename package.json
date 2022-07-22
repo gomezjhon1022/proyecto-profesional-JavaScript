@@ -4,7 +4,7 @@
   "description": "Proyecto donde aplicamos los conocimientos adquiridos en el curso profesional de JavaScript",
   "main": "index.js",
   "scripts": {
-    "start": "parcel src/index.html ejercicios/**/*.html ejercicios/singleton/index.html"
+    "start": "parcel src/index.html ejercicios/**/*.html ejercicios/singleton/index.html ejercicios/observer/index.html"
   },
   "repository": {
     "type": "git",
