@@ -105,5 +105,15 @@ dist
 
 # TypeScript
 
+#TypeScript
+.parcel-cache/
+
+#2
+/.parcel-cache
+#3
 .parcel-cache
+.parcel-cache/data.mdb
+.parcel-cache/lock.mdb
+.parcel-cache/ae3c784ff75076d8
+#
 dist
